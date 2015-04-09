@@ -14,3 +14,5 @@ This app demonstrates how you can use Redis and PubSub with Node.js and Socket.i
 `env PORT=5001 node ./app.js`
 6. Open up two browser windows, one to each instance: [http://localhost:5000](http://localhost:5000) and [http://localhost:5001](http://localhost:5001)
 
+## Presentation
+See the attached [presentation](Real time web apps with Node.js and Redis.pdf) for this project. It was presented at the April 2015 meeting of the [Omaha JS user group](http://www.meetup.com/nebraskajs/).
